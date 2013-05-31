@@ -1,0 +1,58 @@
+XIAOTITLE apple-history.com / Recent Changes.
+Recent Changes Tuesday, 3 January 2012 Welcome to the new apple-history!
+I ve been slowly building the new UI over the past year, making slow but steady progress toward what you now see here.
+The frames-based site was nearly nine years old, and long overdue for a major rework, and I finally had time to finish it up during the holidays.
+I hope you love (or can at least tolerate) the new site!
+Here are some highlights of the new design: Complete re-skin!
+My goal was a clean, simple site that didn t feel completely foreign.
+The core layout of each page should still look familiar.
+I ve made an attempt to test this on as many browsers as I can, but there will inevitability be some kinks to iron out.
+Please be patient!
+No more frames!
+I struggled for a long time with how to make every page of the site easily accessible from every other page, and for a long time frames was the best answer I had.
+After years of experimentation, I think I ve found a reasonable solution in the new navigation column you see to your left.
+It should  remember  its state from screen to screen, and default to a reasonable state when pages are loaded from links or bookmarks.
+It uses very simple javascript and css, and should degrade nicely to a simple bulleted list for simple browsers.
+Removing frames has the added benefit of making bookmarking much easier.
+As you click around the site, you ll notice that the URLs are much shorter.
+The old-style URLs should all still work fine, but will redirect to the new shorter ones, which should get picked up by the search engines over the next few weeks.
+Tweet/+1 buttons on ever page!
+I added tweet buttons to the old site a few months ago, but I think the integration is a little cleaner now.
+There s also a follow button up top so you can get a tweet whenever I manage to update the site.
+Model Comparison improvements!
+The comparison tables are a little better integrated with the rest of the site visually.
+The pull-down menu is still there, but has been augmented to also behave as an auto-complete search field.
+I find this makes comparing models pretty easy.
+I ve also added the iPhone 4S, the late  11 MacBook Pros, and fixed a few small specs errata.
+I believe I ve worked out all of the major bugs in the new site, but there s still a lot to do, which I hope to get to over the course of the next year.
+The standard caveat still applies, though: I work a busy, full time job, and updates to the site may still be several months removed from one another.
+Thanks for visiting!
+Saturday, 24 September 2011 Holy Moly!
+I could list all the models I m adding, but it s basically 2010 and 2011.
+My newish-job at Twitter keeps me pretty busy, but I ve been hacking away as time allows, and am finally up to date, with a number of small corrections as well.
+Thanks to all the folks who have emailed to check in and make sure I m still here.
+I intend to keep the site up, running, and mostly current for the forceable future, though I ll probably continue to be a few months behind most of the time.
+I ve also been working on a larger structural update to the site, which didn t make the cut for this release, but I hope to get out by the end of the year (along with whatever new machines get released in the interim).
+I ve added a follow button to the site navigation for the @apple history Twitter account, from which I will tweet when ever I make up an update in the future.
+Wednesday, 9 June 2010 Added the new MacBook and MacBook Pro models, added the iPhone 4.
+Fixed a few typos.
+Monday, 8 February 2010 fixed a typo and the price list for the iMac (Late 2009), and added the Mac mini (Late 2009), which I had mostly added already.
+Saturday, 6 February 2010 Happy (one month after) New Year!
+Added the Late 2009 models and the iPad.
+Made more smallish, not all that apparent under-the-hood changes.
+Tuesday, 29 September 2009 Within hours of launching the comparison feature I managed to break it in attempt to fix bookmarking (which had been broken for comparison pages).
+Both work now.
+Sunday, 27 September 2009 Boy oh boy, it s been a while, hasn t it?
+Nearly a year!
+Thanks/Sorry to all those who wrote in to ask if I was dead, and even more thanks to those of you who didn t!
+I m not dead, I haven t forgotten about or given up on the site, and I do intend to bring it up to date and improve it over time.
+Now that we ve gotten that out of the way: the site has been updated with all the 2009 models, and has had some major under-the-hood renovations to increase stability, scalability, and to aid in future feature enhancements.
+As proof that all that pretty much invisible under-the-hood work was worth something, I ve added a new feature, which allows you to compare up to four models side by side.
+Every model page now has a pull-down menu listing all other models, and a  compare  button.
+Once you get past the initial annoyance at the list being so darn long, it s easy as pie!
+I intend, at some point, to come up with something better than a 340-item pull down menu, but I had to get the update out before 2010.
+In addition to yet another round of corrections, I ve also updated a bunch of the images for older models, thanks to the very generous folks at Old Computers (a really great collection of 70 s and 80 s computers) and Todo Apple Blog . I figure We ve got a few weeks before the site goes out of date again, so enjoy!
+Friday, 17 April 2009 Made some significant structural improvements under the hood, and made a few spec corrections.
+I m hoping to have time to catch on new models sometime soonish.
+Tuesday, 25 November 2008 Added new MacBook, MacBook Pro, and MacBook Air.
+Made a few small corrections.

@@ -1,0 +1,20 @@
+XIAOTITLE BBC News - Half a million Mac computer infected with malware .
+More than half a million Apple computer have been infected with the Flashback Trojan, according to a Russian anti-virus firm.
+Its report claim that about 600,000 Macs have installed the malware - potentially allowing them to be hijacked and used a a botnet .
+The firm, Dr Web, say that more than half that number are based in the US.
+Apple ha released a security update, but user who have not installed the patch remain exposed.
+Flashback wa first detected last September when anti-virus researcher flagged up software masquerading itself a a Flash Player update.
+Once downloaded it deactivated some of the computer s security software.
+Later version of the malware exploited weakness in the Java programming language to allow the code to be installed from bogus site without the user s permission.
+Remote control Dr Web said that once the Trojan wa installed it sent a message to the intruder s control server with a unique ID to identify the infected machine.
+By introducing the code criminal are potentially able to control the machine, the firm s chief executive Boris Sharov told the BBC.
+We stress the word potential a we have never seen any malicious activity since we hijacked the botnet to take it out of criminal hands.
+However, we know people create virus to get money.
+Dr Web also note that 274 of the infected computer it detected appeared to be located in Cupertino, California - home to Apple s headquarters.
+Update wait Java s developer, Oracle, issued a fix to the vulnerability on 14 February , but this did not work on Macintoshes a Apple manages Java update to it computers.
+Apple released it own security update on Wednesday - more than eight week later.
+It can be triggered by clicking on the software update icon in the computer s system preference panel.
+The security firm F-Secure ha also posted detailed instruction about how to confirm if a machine is infected and how to remove the Trojan.
+Although Apple s system software limit the action it computer can take without requesting their user permission, some security analyst suggest this latest incident highlight the fact that the machine are not invulnerable.
+People used to say that Apple computers, unlike Windows PCs, can t ever be infected - but it s a myth, said Timur Tsoriev, an analyst at Kaspersky Lab.
+Apple could not provide a statement at this time.

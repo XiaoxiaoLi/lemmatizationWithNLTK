@@ -1,0 +1,229 @@
+XIAOTITLE Apple Incorporated (AAPL) News - Company Information - The New York Times.
+The new map software replaces Google Maps with Apple’s own mapping system, in a sign that Apple is further distancing itself from the Internet search giant that it once considered a close partner.
+But making digital map is not easy.
+Google declined to comment on what it spends on it map business, but others in the industry estimate that the figure is $500 million to perhaps $1 billion annually, equal to a fifth of it budget for research and development.
+But Apple can afford the battle.
+How well it can share information with developer and integrate their service into a single experience remains to be seen.
+Apple made the boldest change in it computer line to it high-end laptop computer, the MacBook Pro , which is now one-quarter thinner than the older model and ha a high-resolution “retina display” akin to the screen on new iPads and iPhones.
+Apple wa able to slim down the laptop, which will start at $2,200 for a model with a 15.4-inch screen, by eliminating it DVD drive and getting ride of it hard drive in favor of a faster form of storage technology called flash.
+Other new feature in the new mobile operating system, iOS 6, include improvement to Siri, the voice-activated virtual assistant in the latest iPhone.
+While Siri initially worked with a limited set of Internet service — allowing user to, say, search for restaurant through Yelp — it will now let them use natural voice command to search for sport statistics, make restaurant reservation using OpenTable and look up showtime for movies.
+Siri also ha a new function, Eyes Free, that will allow car driver to communicate with the voice assistant by pushing a button on their car steering wheels.
+General Motors, BMW and Toyota are among the auto manufacturer who have agreed to put such a button in their vehicles.
+Apple also said it reached an agreement with Facebook that more deeply weave the social network into Apple’s devices, allowing people to share photo to Facebook, for example, without having to open a separate Facebook app.
+The new feature in the operating system will become available for iPhones, iPads and the iPod Touch when iOS 6 is released this fall.
+Apple’s new Macs will ship with the operating system that Apple introduced in February, OS X Mountain Lion, which take some feature from Apple’s mobile product and blend them into the Macs.
+A new feature in Mountain Lion, which will be released in July, is Power Nap; it will allow computer to fetch software updates, e-mail and other data from the Internet while the machine are asleep.
+Apple, founded in 1976 by Steven P. Jobs and Steve Wozniak, is the world’s largest technology company in term of market capitalization, taking the lead from it longtime rival Microsoft in 2010.
+On Oct. 5, 2011, the company announced the death of Mr. Jobs, after a long battle with pancreatic cancer.�Rarely ha a major company and industry been so dominated by a single individual, and Mr. Jobs’s influence went far beyond the iconic personal computer that were Apple’s principal product for it first 20 years.
+Again and again, Mr. Jobs gambled that he knew what the customer wanted, and again and again he wa right.
+The death of Mr. Jobs stirred deep emotion inside and outside Apple and raised concern about whether the company can, in the long run, continue it remarkable streak of hits.
+The Early Years Founded in 1976 by Mr. Jobs and Steve Wozniak, Apple came of age a one of a wave of firms� — including Atari, Radio Shack and Texas Instruments� — that were looking for way to transform the digital computer into a home appliance.
+Of that first personal computing generation, it is Apple that ha consistently found a way to touch the zeitgeist.
+Apple’s microprocessor-based consumer product have found expanding consumer market around the world, beginning with the Apple II computer, widely adopted in education during the 1970s.
+In 1979, Mr. Jobs made a legendary visit to Xerox’s Palo Alto Research Center, where he saw a prototype personal computer called the Alto.
+He took away a range of idea about computer design and graphical user interface and developed two family of computers, the Lisa and the Macintosh.
+Aiming to make Apple’s product “insanely great,” Mr. Jobs wa convinced that they could change the world.
+Although the Lisa failed commercially, the Macintosh succeeded, reshaping the computer industry over the next decade.
+Its success, however, came at great cost to Mr. Jobs, who wa forced out of the company in 1985 by his handpicked chief executive, John Sculley, a recruit from Pepsi.
+Apple initially prospered under Mr. Sculley, and the Macintosh briefly reached a market share of more than 15 percent of the personal computer industry, but the company foundered a Microsoft’s Windows operating system became the desktop computing standard.
+The company began to unravel when Mr. Sculley placed a large bet on the arrival of the hand-held computing market.
+When Apple’s Newton failed commercially, he wa forced out in 1993.
+In 1997, Apple’s current era dawned when Mr. Jobs returned after more than a decade in exile.
+At the time, many analyst gave him little chance of resurrecting the company, which had largely been written off by the computer industry.
+Michael S. Dell, who built his own PC empire, wa even quoted a suggesting that Apple’s smartest move would be to “shut it down and give the money back to the shareholders.” Starting with the title of interim chief executive, however, Mr. Jobs systematically rebuilt the company’s Macintosh franchise by adding an operating system he had developed at Next Inc. An Underdog Becomes a Giant Apple, the Silicon Valley company that ha become an icon of personal computing, rose to it greatest height in the year after Mr. Jobs returned to it helm and opened horizon beyond the desktop.
+With it coveted gadgets, Apple ha cast something of a spell over consumer and investors.
+The iPod and the iPhone have been major force in the music and smartphone industries, respectively.
+As measured by the value of it stock, Apple shot past Microsoft, the computer software giant, in May 2010 to become the world’s most valuable technology company.
+The changing of the guard cap one of the most stunning turnaround in business history for Apple, which had been given up for dead only a decade earlier.
+The rapidly rising value attached to Apple by investor also herald an important cultural shift: consumer taste have overtaken the need of business a the leading force shaping technology.
+As one success follows another, the company find itself in a bewildering position.
+As the tech industry’s perennial underdog, Apple wa frequently scorned and dismissed by larger and more successful competitor like Microsoft or Dell.
+Now, with growing frequency, the company is seen by competitor and other industry player a a bully.
+Companies like Google and Adobe have accused Apple of unfairly using it clout to exclude their technology from the iPhone and iPad.
+And some application developer are fretting under Apple’s tight control of those devices.
+Perhaps the loudest complaint came after Apple barred some third-party programming tool from the iPad, including Adobe’s Flash software, which is widely used to create online video and Web applications.
+The decision led to a very public war of word between Adobe and Mr. Jobs.
+It also prompted the Federal Trade Commission to begin asking question about the effect of Apple’s decision on competition.
+Then, in June 2010, Apple appeared to make the switch from excluded to excluder in the mobile ad market.
+Policies for the iPhone 4 bar Google and AdMob from selling ad on the device, resulting in a complaint to the FTC from Google, which wa in the unusual position of playing victim.
+The FTC inquiry is not the only one concerning potentially anticompetitive behavior by Apple.
+The Justice Department began a preliminary investigation into whether Apple pressured music label to exclude Amazon.com, it rival in digital music distribution, from certain licensing agreements.
+And Apple is one of many Silicon Valley company whose hiring practice are being examined by the department.
+The latest inquiry from the commission ha raised eyebrow among some antitrust experts, in part because Apple currently control le than a third of the smartphone market in the United States.
+Apple like to maintain tight control over what program can appear on the iPhone — a task that became a little bit harder on July 26, 2010, when the Library of Congress, which ha the power to define exception to an important copyright law, said that it wa legal to bypass a phone’s control on what software it will run to get “lawfully obtained” program to work.
+The issue ha been a topic of debate between Apple, which say it ha the right to control the software on it devices, and technically adept user who want to customize their phone a they see fit.
+Apple also said that altering the phone encouraged the pirating of applications, exposed iPhones to security risk and taxed the company’s customer support staff.
+But iPhone hobbyist say they simply want to have free range to use certain feature and program on their phone that Apple ha limited or failed to offer.
+The Beginning of a Revolution In 2001, Mr. Jobs introduced the iPod music player, setting the company on it current course a a major force in consumer electronics.
+The iTunes Music Store, created to enable user to fill the device with audio, ha made Apple an important force in the music industry a well.
+Over 10 billion song from the store have been downloaded since the site went active in April 2003.
+In 2007 Apple introduced the iPhone, a convergence of entertainment, computing and communication that ha roiled the cellular phone industry.
+Its Apple TV set-top box ha had le impact, but signal a continuing interest in the living room.
+In April 2010, Apple announced that it had sold more than 300,000 iPads on the device’s first day on the market, a figure that included preorders.
+That met the expectation of financial analyst who were keeping tab on the release of the company’s highly anticipated tablet computer.
+Apple also said iPad user had downloaded more than one million apps from the company’s App Store and more than 250,000 electronic book from it iBookstore.
+Wall Street warmly greeted the news in May 2010 of Apple’s dominance over Microsoft, calling it the end of an era and the beginning of the next one.
+Microsoft, with it Windows and Office software franchises, had dominated the relationship most people had with their computer for almost two decades, and that wa reflected in it stock market capitalization.
+But the click-clack of the keyboard ha ceded ground to the swipe of a finger across a smartphone’s touch screen.
+And Apple is in the right place at the right time.
+Although it still sell computer the iPhone is the most critical product in Apple’s line-up and the largest source of it revenue, accounting for more than $13.3 billion — almost half of total company sale — in the 2011 third quarter earnings.
+Antitrust Suit Over E-Books In April 2012, the Justice Department filed a civil antitrust lawsuit against Apple and five major book publishers, charging that the company colluded to raise the price of e-books in 2010.
+The government’s decision ha put Amazon.com in a powerful position: the nation’s largest bookseller may now get to decide how much an e-book will cost , and the book world is quaking over the potential consequences.
+The dispute center on a pricing policy that many in the publishing industry consider critical to it survival a e-books become an increasingly large share of the market.
+And because electronic book are so new, the cost structure is an emerging issue on which there is little history to provide guidance and many diverging interests.
+The pricing policy, known a the agency pricing, let publisher set the retail price of book offered through Apple’s iBookstore, with Apple taking 30 percent of the revenue.
+The model wa developed in response to what publisher saw a the growing dominance of the field of Amazon, which they feared would end up destroying their ability to set their own prices.
+Three publisher that were investigated, the Hachette Book Group, Simon Schuster and HarperCollins, agreed to a settlement that will most likely overturn their pricing model.
+Macmillan and Penguin Group USA, which were also named in the suit, have not yet settled.
+In December 2011, the European antitrust authority announced that it wa undertaking a similar investigation . Pledge to Improve Working Conditions in Chinese Factories In late March 2012 ,� Foxconn , which manufacture electronics for Apple and other technology companies, pledged to sharply curtail the number of working hour within it Chinese factory and significantly increase wages, a move that could improve working condition across China.
+The shift came after a far-ranging inspection by the Fair Labor Association, a monitoring group, found widespread problem — including numerous instance where Foxconn violated Chinese law and industry code of conduct by having employee work more than 60 hour a week, sometimes for 11 or more day in a row.
+The monitoring group, which in the preceding week had surveyed more than 35,000 Foxconn employee and inspected three large facility where Apple product were manufactured, also found that 43 percent of worker surveyed had experienced or witnessed accidents, and almost two-thirds said their compensation “does not meet their basic needs.” Many said that the union available to them did “not provide true worker representation.” Apple, which recently joined the Fair Labor Association, had asked the group to investigate plant manufacturing iPhones, iPads and other devices.
+A growing outcry over condition at overseas factory had prompted protest and petitions, and several labor right organization had started scrutinizing Apple’s suppliers.
+Earlier, a collection of advocacy group sent Apple an open letter calling on the company to “ensure decent working condition at all it suppliers.” Tim Cook, Apple’s chief executive, had also visited visited an iPhone production plant run by Foxconn while on a visit to China.
+Since January 2012, Apple ha released a list of 156 of it supplier — which it had previously declined to identify — and ha begun posting regular monitoring report on hour worked by factory employees.
+Apple, which ha regularly audited it supplier since 2006, said in a statement on March 29, “We share the F.L.A.’s goal�of improving life and raising the bar for manufacturing�companies everywhere.” The impact of Foxconn’s hour and wage change could signal a new, far-reaching turn in reforms.
+Foxconn is China’s largest and most prominent private employer, with 1.2 million workers, and though the Fair Labor Association’s investigation wa limited to Apple factories, the shift that were announced have the potential to increase wage and improve working condition across Foxconn, which also manufacture product for hundred of other brands, and at non-Foxconn plant across China.
+Foxconn’s promise include a commitment that by July of 2013, no worker will labor for more than 49 hour a week — the limit dictated by Chinese law.
+Foxconn, which ha it headquarters in Taiwan and is controlled by the billionaire Terry Gou, ha also pledged that despite cutting hours, employees’ salary will not decline.
+Experts say such promise will most likely require Foxconn to hire ten of thousand of new employee a well a raise wages, step that could cost it hundred of million of dollar annually.
+Those moves, in turn, are likely to influence the price paid by Foxconn’s customers, which include every major electronics company, and could increase the retail cost of consumer electronics product like smartphones and tablet unless Apple and others accept lower profit margins.
+Dividend and Share Buyback On March 19, Apple announced that it would pay a quarterly stock dividend of $2.65 a share beginning in the quarter that start in July and it board authorized a $10 billion share buyback, two move that will use up some of it cash hoard of nearly $100 billion to reward investors.
+The company said it would use up to $45 billion of it domestic cash on the stock buyback and dividend program.
+The three-year stock buyback would begin in September 2013.
+The company said it would spend about $10 billion on the dividend per year.
+As it cash ha piled up, Wall Street analyst and investor had begun to call more loudly for Apple to return some of it to shareholders.
+Although having too much cash is rarely seen a a burden for a company, Apple earns le than 1 percent in interest on the cash, which many investor view a wasteful.
+Third Generation iPad On March 7, 2012, Apple updated the iPad with a high-definition screen, faster wireless connection and several other refinements.
+The new iPad is scheduled to go on sale March 16 for a starting price of $499, unchanged from the last generation of iPads.
+The product ha a screen that provides a comparable level of clarity to the iPhone’s “retina display,” with higher-resolution than conventional high-definition televisions, according to Apple executive And in a sign that Apple intends to more seriously protect it market share in the tablet market, the company said it would continue to sell it second generation iPad, dropping the price to $399 from $499.
+Apple also introduced a new version of Apple TV, the company’s $99 set-top box for accessing Internet video, that stream movie in the sharpest of the high-definition video formats, called 1080p.
+The new iPad, which ha no number or letter following it name, is an effort to keep growth chugging along in a two-year-old business that ha turned into a major technology franchise for the company.
+Speaking from the same stage where Steven P. Jobs, the company’s late chief executive, introduced the second generation iPad almost exactly a year before, the company’s new chief executive, Timothy D. Cook, said, “In many ways, the iPad is reinventing portable computing and outstripping the wildest predictions.”� The third generation iPad look virtually indistinguishable from it predecessor, without any of the bold outward design change often associated with new product from the company.
+It feature a faster processor — an A5X quad-core chip — and a higher resolution screen — 2,048 by 1,536 pixels, more than 3.1 million pixels, or four time more than the second generation iPad.
+It operates on the fourth-generation cellphone network technology known a LTE.
+In the United States, the new iPad work on AT T’s and Verizon’s network . The iPad also allows user to dictate e-mails, though Apple did not introduce an iPad version of Siri, an iPhone virtual assistant feature that can schedule appoints and perform other task using natural sounding commands.
+In fall 2011, Apple disappointed some pundit and enthusiast by making mostly incremental enhancement with it latest smartphone, the iPhone 4S.
+That product ended up defying doubt to become a smash hit, leading to record sale over the holidays.
+During that time, Apple, based in Cupertino, Calif., solidified it lead a the most valuable company in the world, with a market capitalization of almost a half-trillion dollars, well ahead of it nearest rival, Exxon Mobil.
+The new iPad may show how durable Apple’s hold on the tablet market is. For most of the two year the iPad ha been on sale, Apple ha faced a phalanx of competitors, from Hewlett-Packard, Research In Motion, Samsung and Motorola, yet none ha established a firm beachhead in the tablet business.
+A few of those competitors, like Hewlett, gave up.
+Apple sold 15.4 million iPads over the holiday quarter and 55 million of the device in total since they first went on sale in 2010.
+The chief criticism that some stalwart of the PC industry have leveled at the iPad is that the device is not well suited for creating content, even if it is good for consuming it.
+Apple, though, sought to undermine that argument with a number of new apps.
+Those include a new version of it Mac software, iPhoto, for editing photographs.
+A new version of Apple’s Garage Band music software let up to four people to play in a virtual band together with four iPads that are connected together wirelessly.
+Working condition in Foxconn factories, including safety lapse that led to worker deaths, were the subject of an investigative article in January 2012 by The New York Times.
+The iPhone Rules, But Its Lead Is Not Guaranteed Apple, the global market leader in smartphones, is enjoying record profit and sale that have transformed it into the world’s most valuable company on any stock market.
+But the mobile computing industry it ha conquered in just five year is changing rapidly, and not even Apple’s trend-setting image appears guaranteed . It is Apple’s reward for being the progenitor of the modern smartphone segment: the sum of it software DNA, intuitive user experience, cash-generating universe of applications, cultivated image of hipness and first-mover advantage.
+But Apple’s rival are making smartphones for much less, and the iPhone is becoming ubiquitous, threatening it cachet.
+In 2011, Apple became the world’s largest buyer of semiconductors, according to Gartner, a research firm.
+It displaced LG of Korea a the No. 3 maker of mobile phone by volume, trailing only Nokia and Samsung.
+Apple narrowed the lead held by Android, the free operating system developed by Google.
+By December 2011, 44.5 percent of all smartphone buyer in the United States were choosing iPhones.
+The proportion choosing for Android fell to 46.9 percent from 61.6 percent, according to Nielsen.
+By 2016, more than half of all smartphones sold will cost le than $300, according to Informa Telecoms and Media, a research firm.
+Last year, 81 percent — most of them iPhones — cost more than $300.
+The proportion costing le than $200, which currently make up 5 percent of the global market, is expected to increase almost fivefold, to 24 percent, by 2016.
+iPad Trademark Case in China Suspended On Feb. 22, 2012, Apple defended itself in a Chinese court against allegation that it doe not own right to the iPad trademark in China, a challenge that threatens to prevent the company from selling one of it most popular product in one of it fastest-growing markets.
+After a heated, four-hour session at the Shanghai Pudong New Area People’s Court, the local district judge did not issue any ruling or give any public indication of how the case would be resolved.
+The case wa suspended the next day . The court released a statement on it Web site saying it would not rule because a related trademark court case between the two company wa pending in Guangdong Province, in southern China . An Apple spokeswoman confirmed the court decision and said the company would continue to challenge the position of the Chinese company, Proview International, which claim it owns the trademark right to the iPad name in mainland China.
+Apple insists that one of it subsidiary acquired the right to the iPad name in China from the Chinese company several year ago, before the tablet computer wa released.
+But the Proview parent company, a computer display maker based in Taiwan, say it subsidiary in Shenzhen retains the right to the iPad name in the mainland.
+Proview is facing bankruptcy and ha said it is trying to force Apple to pay some compensation.
+A lawyer representing Proview in the Shanghai case said he wa surprised by the Shanghai ruling but that Proview would continue to press it case in the city.
+The dispute ha been an annoyance to Apple at a time when the company’s product are growing increasingly popular in China.
+Some of the world’s busiest Apple store are in Beijing and Shanghai.
+Recently, Proview ha had more success in several smaller Chinese cities, persuading the local authority to either block the sale of the iPad in their region or to confiscate some of the product.
+Yearly Updates for Mac Operating System In February 2012, Apple announced that it will update Mac OS X once a year . It will begin in summer with Mac OS X 10.8, code-named Mountain Lion, only a year after the Lion version wa released.
+When Lion wa introduced in summer 2011, the big change were all about making the Mac more like an iPad.
+Trackpad gesture simulated the multitouch gesture on an iPad screen.� Mountain Lion brings even more of the iPhone/iPad feature to the Mac.
+The suite of Mac apps mimic what’s on the iPhone/iPad, like Reminders, Notes, Messages and Game Center.
+Through a free iCloud account, all of these apps are synced instantly and smoothly across all your Apple gadgets.
+The Power of the iPhone In late January 2012, Tim Cook, Apple’s chief executive, said the iPhone 4S accounted for the majority of iPhone sale — a significant statement considering that at the time, the iPhone 3GS wa free with a two-year contract, and the iPhone 4 cost $100.
+Even in a down economy and with a free iPhone in it portfolio, Apple still managed to sell the expensive, newer 4S to most of it customers.
+Yet the free and reduced-price iPhones were still important to the company’s business.
+Tero Kuittinen, a senior analyst at MGI Research, said the free iPhone 3GS gave Apple the opportunity to expand aggressively into market where smartphones are not a popular yet, like China and Africa.
+Jan Dawson, an analyst with Ovum, said not to underestimate the power of the free iPhone 3GS and the cheaper iPhone 4.
+“You’d better believe the other iPhones are selling, too,” he said.
+On Jan. 19, 2012, Apple introduced three free piece of software revolving around education . It released iBooks 2, a new version of it electronic bookstore, where student can now download textbooks; iBooks Author, a Macintosh program for creating textbook and other books; and iTunes U, an app for instructor to create digital curriculum and share course material with students.
+Digital textbook made for iBooks can display interactive diagrams, audio and video.
+The iBooks Author app includes template made by Apple, which publisher and author can customize to suit their content.
+Apple said electronic high school textbook from it initial publishing partners, including Pearson, McGraw-Hill and Houghton Mifflin Harcourt, would cost $15 or less.
+That is much cheaper than print textbooks, some of which can cost over $100.
+Textbooks are a fat target for the technology industry.
+Sales of electronic textbook accounted for only 2.8 percent of the $8 billion domestic textbook market in 2010, according to Forrester Research.
+But it will take time for the technology to change how most textbook are purchased.
+There is the obvious challenge of finding the money for school to buy iPads, which start at $500 each in stores.
+Also, school have to become comfortable with the idea of paying for right to iPad textbook for new student every school year, rather than paying a one-time fee of, say, $60 for a printed textbook that last five or six years.
+Publishers, too, will have to get used to the idea of Apple taking a 30 percent commission on sales.
+Demand for iPhones in China On the same day Apple released it list of suppliers, it introduced the� iPhone 4S in Beijing, an event that turned ugly, when Apple failed to open it flagship store and a frustrated crowd responded by pelting the store’s gleaming glass wall with eggs.
+Apple said in a statement that it had temporarily suspended sale of all iPhones at it five mainland China store for the safety of customer and employees.
+The phone were still offered online, through Apple’s official partner, Unicom, and at authorized resellers.
+Demand for iPhones in China far exceeds supply, which ha spawned an army of scalper who hire migrant worker to snap up product that the scalper then resell at jacked-up prices.
+Wary of unrest, police ordered the store not to open.
+Furious, some would-be customer threw eggs.
+Police dispersed the crowd and temporarily cordoned off the store.
+At Apple’s other Beijing store and three store in Shanghai, the iPhone 4S sold out quickly, leaving some would-be buyer disappointed, but with no report of incidents.
+China is Apple’s fastest-growing market: with just five of the company’s stores, it account for one-sixth of it global sales.
+Winning a Patent Case On Dec. 19, 2011, Apple won a victory on a smartphone patent claim against HTC Corporation, one of the world’s largest maker of smartphones running the Android system.
+The International Trade Commission ruled that a set of important feature commonly found in smartphones were protected by Apple, a decision that could force change in how Google’s Android phone function.
+The ruling wa only a partial victory for Apple because the commission overruled an earlier decision in Apple’s favor in the case, involving a patent related to how software is organized internally on mobile devices.
+It would have been harder for the defendant in the case, HTC, to adapt it device to avoid infringing that patent, legal expert said.
+The ruling from the commission found that HTC had only infringed one of the two patents.
+Apple initially accused HTC of infringing 10 patents, but six were dropped from the case.
+The commission’s judge ruled that HTC infringed two of the remaining four.
+The commission imposed a formal import ban on any HTC phone that infringe on the patent, starting April 19, 2012.
+Warming Up to Big Business During his year at the company, Steve Jobs never cared much for selling Apple product to big business . He so disliked the process of catering to the need of business, rather than those of consumers, that he called chief information officer in corporation “orifices” at a conference in 2005.
+But a funny thing happened in the last few years.
+Big company started buying Apple product — a lot of them — for their employees.
+The iPad and iPhone have given the Apple symbol a presence in workplace that Apple never enjoyed when it wa strictly focused on selling Macintosh computers.
+While corporate technology buyer say Apple doe not try to hide the fact that consumer are still it top priority, they note that the company ha gotten easier to work with in recent years, adding feature to it device that make them more palatable to business.
+It also doesn’t hurt that Apple’s new chief executive, Mr. Cook, is known to be far more at ease meeting with the C.I.O.’s Mr. Jobs once so memorably disparaged.
+Apple ha begun to drop hint that it see the corporate market a a big growth opportunity.
+During recent earnings call with Wall Street analysts, Apple executives� boasted about the portion of Fortune 500 company testing or deploying iPads and iPhones — 92 percent and 93 percent, respectively, Apple said in October 2011.
+Among the big customer Apple ha won recently is the home improvement retailer Lowe’s, which say it bought about 42,000 iPhones to be used by employee on store floors.
+Another is the airlines, which have begun to use iPads to replace the printed aircraft flight manuals, navigation chart and other material that pilot are required to bring on board.
+Information technology departments, though, may find working with Apple a challenge.
+Historically among I.T. managers, Apple Macs were largely shunned a too expensive, and the company wa viewed a not serious about making the computer blend well in corporate environments.
+Also, although Apple’s secrecy about where it product are headed may help it make a big marketing splash in the consumer market, corporate I.T. department like to know more so they can budget for big new technology investments.
+Apple’s New Pricing Strategy Once known a the tech industry’s high-price leader, Apple ha been beating rival on price over the last several years, according to an article in The New York Times on Oct. 23, 2011.� For instance, people who wanted the latest Apple smartphone, the iPhone 4S, were able to get one the day it went on sale if they were willing to wait in a line, spend at least $199 and commit to a two-year wireless service contract with a carrier.
+Or they could have skipped the line and bought one of the latest iPhone rival from an Apple competitor, a long a they were willing to dig deeper into their wallets.
+For $300 and a two-year contract, gadget lover could have picked up Motorola’s Droid Bionic from Verizon Wireless, or they could bought the $230 Samsung Galaxy SII and $260 HTC Amaze 4G, both from T-Mobile, under the same terms.
+Apple’s new pricing strategy is a big change from the 1990s, when consumer regarded Apple a a producer of overpriced tech baubles, unable to compete effectively with it Macintosh family of computer against the far cheaper Windows PCs.
+But more recently, it began using it growing manufacturing scale and logistics prowess to deliver Apple product at far more aggressive prices, which in turn gave it more power to influence pricing industrywide.
+Analysts and industry executive say Apple’s pricing is an overlooked part of it ability to find a large audience for it product beyond hard-core Apple fans.
+Apple sold more than four million iPhone 4S smartphone over it debut weekend.
+People can still easily find le expensive alternatives, with le distinctive and refined designs, to most Apple products.
+Within the premium product category where Apple is most at home, though, comparable device often do no better than match or slightly undercut Apple’s prices.
+Next Act for the iPhone In October 2011, the company unveiled an eagerly awaited new version of the device , the iPhone 4S, that come with a “virtual assistant,” Siri, that recognizes voice command by user to schedule appointments, dictate text message and conduct Web searches.
+Although the new phone is virtually indistinguishable on the outside from it predecessor, the iPhone 4, it is packed with better technical innards, including a more advanced camera.
+The phone also includes a more powerful chip known a the A5, the same microprocessor that act a the brain inside the iPad.
+Despite the new feature and the improved technology, Apple fan expressed disappointment on Twitter about the lack of a design change.
+Investors reacted a well, sending the stock down 5 percent on the day the phone wa introduced.
+Nonetheless, Apple said it sold more than four million iPhone 4S’s during the device’s first weekend on sale.
+That figure is more than double the 1.7 million unit of the iPhone 4 that Apple sold during it first three day on the market in June of 2010.
+The iPhone 4S is available on the AT T, Verizon and Sprint networks.
+The phone also run on two kind of cellphone networks, GSM and CDMA, allowing it operation worldwide.
+The Android Challenge With every new iPhone, Apple face the challenge of how to entice it legion of fan to upgrade to the new device and to convert the much larger pool of people who don’t yet own one.
+The second task is the more difficult one, a mobile phone running the Android operating system by rival Google have flooded the market, with wider distribution from wireless carriers, more hardware choice and often cheaper price tags.
+When the previous iPhone update wa released, in June 2010, Apple and Google each accounted for about the same share of new smartphone sales.
+Since then the market ha shifted dramatically in Google’s favor.
+During the second quarter of 2011, Android device accounted for 43.4 percent of new smartphone sale to Apple’s 18.2 percent, according to the research firm Gartner.
+Both companies’ mobile business are growing swiftly a they steal share from rival like the maker of the BlackBerry, Research in Motion, that have fallen behind their technical innovations.
+Yet Apple, by many measures, still remains the smartphone player to beat, with better profit from the business, huge influence among mobile app maker and innovation that rival scramble to copy.
+New Initiative: iCloud In June 2011, Apple unveiled iCloud, a new, free storage and syncing service meant to simplify how million of people gain access to music, photo and file across multiple devices.
+Mr. Jobs said that iCloud would replace the personal computer a the central hub of people’s digital life — storing photos, music and documents.
+Relying on the PC, he said, no longer work now that million of people have multiple devices, each with photos, documents, songs, phone application and other files.
+At the center of iCloud is a new version of iTunes that will allow user to download on any device any song they have ever purchased.
+Songs that were not purchased from iTunes can be added for $25 a year, Mr. Jobs said.
+The iCloud service also work with documents, apps and photo through a new service, Photo Stream.
+In October 2011, Apple announced that 20 million customer had signed up for iCloud.
+At the end of April, Apple reported that net income for it latest quarter surpassed forecast a iPhone sale increased 88 percent.
+The company sold 35.1 million iPhones, and said it iPad sale grew 151 percent to 11.8 million.
+For Apple’s fiscal second quarter that ended March 31, the company reported net income of $11.6 billion, or $12.30 a share, compared with $6 billion, or $6.40 a share, in the same period a year earlier.
+Apple’s revenue wa $36.2 billion, up from $24.7 billion a year ago.
+Apple previously told Wall Street to expect earnings of $8.50 a share and revenue of $32.5 billion for the quarter.
+But a they do nearly every quarter, analyst viewed Apple’s official figure a low-ball estimate and came up with their own more bullish forecasts.
+On average, analyst surveyed by Thomson Reuters expected Apple to report earnings of $10.06 a share and revenue of $36.81 billion for the quarter.
+The company said it expected revenue in it third quarter of about $34 billion and diluted earnings per share of about $8.68, lower than analyst estimate of $37.5 billion and $9.96 per share.

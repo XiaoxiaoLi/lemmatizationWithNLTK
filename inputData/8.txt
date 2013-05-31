@@ -1,0 +1,9 @@
+XIAOTITLE The History of Apple Computers.
+On April Fool s Day, 1976, Steve Wozniak and Steve Jobs released the Apple I computer and started Apple Computers.
+The Apple I was the first with a single circuit board used in a computer.
+The first home computer with a GUI or graphical user interface was the Apple Lisa.
+The very first graphical user interface was developed by the Xerox Corporation at their Palo Alto Research Center (PARC) in the 1970s.
+Steve Jobs, visited PARC in 1979 (after buying Xerox stock) and was impressed and influenced by the Xerox Alto, the first computer ever with a graphical user interface.
+Jobs designed the new Apple Lisa based on the technology he saw at Xerox.
+With the 1984 Apple Macintosh Steve Jobs made sure developers created software for the new Macintosh Computer.
+Jobs figured that software was the way to win the consumer over.

@@ -1,0 +1,24 @@
+XIAOTITLE Fresh-cut apples: cultivar and temperature at cutting affect quality.
+Fresh-cut apples: cultivar and temperature at cutting affect quality In the fresh-cut fruit sector, it is fundamental to understand the attribute of new apple selection that are important for fresh-cut processing and product shelf-life.
+Many processor have implemented a temperature conditioning treatment of the fruit before cutting because it ha been demonstrated that this practice might reduce damage incurred during the cutting phase.
+This technique is based on existing knowledge of the differing sensitivity of apple cultivar to bruising injury at varying temperatures.
+The effect of fruit temperature on mechanical damage response of new cultivar is not well known at the time of commercial distribution.
+The objective of the work conducted by Toivonen and Hampson (2009) wa to show how the apple quality can change during shelf-life according to the cultivar and the preconditioning before cutting process.
+For the work, four cultivar were tested (�Ambrosia�, �Aurora Golden GalaTM�, �Granny Smith� e �Royal Gala�).
+Each of the apple cultivar wa harvested at it optimal harvest time and were stored for 3 month in air storage at 1 �C. Then, fruit were removed from cold storage and placed into controlled environment room set at 1, 5, 13 and 20 �C for 24 h. After this preconditioning, the whole fruit wa immersed in 5 L of 100 mg/L chlorinated water for 2 min, the clean apple were then sliced.
+The slice were immersed in 3 L of 100 mg/L chlorinated water for 2 min and then drained for 2 min.
+The sanitized slice were dipped in 3 L of commercial anti-browning solution for 2 min and then drained for 2 min and packaged.
+Fresh-cut apple were stored for 3 week at 5 �C. Firmness and soluble solid content were measured on whole apples, while the lightness and the visual quality of cut surface were measured on the day of cutting and after 3 week of storage at 5 �C. Visual quality wa assessed using a scale from 1 to 9, where the value below 5 indicated off-odors presence, fungal decay, evident deterioration, while value over 5 indicated an acceptable quality of the slices.
+Results showed that the firmness of the four cultivar of apple differed at the time cutting.
+For fresh-cut industry, apple ha a minimum firmness standard of 1.94 kg F, below which fresh-cut apple show increased susceptibility to browning and decay.
+Firmness resulted to decline by increasing core temperature for all cultivars, except �Aurora Golden Gala TM�.
+�Granny Smith� resulted the least firm of the four cultivar tested.
+The soluble solid level were not significantly influenced by preconditioning before cutting.
+Slice color (lightness/ darkness) response wa significantly influenced by apple temperature at cutting.
+After 3 week at 5 �C, L-value increased by increasing the core temperature in slice of �Granny Smith�, it did not change in slice of �Ambrosia�, and it decreased in slice obtained from �Aurora Golden Gala TM� stored at lower temperature before cutting.
+Among temperatures, the highest quality score wa for slice obtained from apple at 13�C core temperature.
+Slices from �Ambrosia� and �Aurora Golden Gala TM� showed a similar response with temperature, slice from �Gala� preserved the best quality when cut from apple at lower temperatures.
+After 3 weeks, the quality of slice from �Granny Smith� reached an unacceptable level regardless of the core temperature before cutting.
+In this work, the result are limited to four cultivar obtained from one growing season at one growing site, thus the author suggest to use these data with caution because the quality and shelf-life depend on many other factors, such a fruit maturity at harvest, postharvest treatments, storage temperature, duration and storage atmosphere.
+The present work wanted simply to demonstrate how can change the shelf-life and quality of fresh-cut fruit according to the factor tested.
+Toivonen P.M.A. and Hampson C.R., Apple Cultivar and Temperature at Cutting Affect Quality of Fresh Slices , HortTechnology , 2009, Issue 19(1), pagg.

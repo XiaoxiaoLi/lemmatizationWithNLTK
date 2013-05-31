@@ -1,0 +1,136 @@
+XIAOTITLE Fruit Chart | Nutrient chart | Vitamins and mineral in common fruits.
+Use these chart to find the nutrient content of your favorite fruits, nuts, protein and vegetables.
+Note that only those nutrient which appear in significant quantity are listed.
+For more detailed information, please visit the United States Department of Agriculture (USDA) Food Nutrition Center .
+One medium apple with skin contains 0.47 gram of protein, 95 calories, and 4.4 gram of dietary fiber.
+Potassium - 195 mg Calcium - 11 mg Phosphorus - 20 mg Magnesium - 9 mg Manganese - 0.064 mg Iron - 0.22 mg Sodium - 2 mg Copper - 0.049 mg Zinc - 0.07 mg Also contains a trace amount of other minerals.
+Vitamin A - 98 IU Vitamin B1 (thiamine) - 0.031 mg Vitamin B2 (riboflavin) - 0.047 mg Niacin - 0.166 mg Folate - 5 mcg Pantothenic Acid - 0.111 mg Vitamin B6 - 0.075 mg Vitamin C - 8.4 mg Vitamin E - 0.33 mg Vitamin K - 4 mcg Contains some other vitamin in small amounts.
+One medium avocado contains 4.02 gram of protein, 322 calorie and 13.5 gram of fiber.
+Potassium - 975 mg Phosphorus - 105 mg Magnesium - 58 mg Calcium - 24 mg Sodium - 14 mg Iron - 1.11 mg Selenium 0.8 mcg Manganese - 0.285 mg Copper - 0.382 mg Zinc - 1.29 mg Also contains small amount of other minerals.
+Vitamin A - 293 IU Vitamin C - 20.1 mg Vitamin B1 (thiamine) - 0.135 mg Vitamin B2 (riboflavin) - 0.261 mg Niacin - 3.493 mg Folate - 163 mcg Pantothenic Acid - 2.792 mg Vitamin B6 - .517 mg Vitamin E - 4.16 mg Vitamin K - 42.2 mcg Contains some other vitamin in small amounts.
+One medium banana contains 1.29 gram of protein, 105 calorie and 3.1 gram of dietary fiber.
+Potassium - 422 mg Phosphorus - 26 mg Magnesium - 32 mg Calcium - 6 mg Sodium - 1 mg Iron - 0.31 mg Selenium 1.2 mcg Manganese - 0.319 mg Copper - 0.092 mg Zinc - 0.18 mg Also contains small amount of other minerals.
+Vitamin A - 76 IU Vitamin B1 (thiamine) - 0.037 mg Vitamin B2 (riboflavin) - 0.086 mg Niacin - 0.785 mg Folate - 24 mcg Pantothenic Acid - 0.394 mg Vitamin B6 - 0.433 mg Vitamin C - 10.3 mg Vitamin E - 0.12 mg Vitamin K - 0.6 mcg Contains some other vitamin in small amounts.
+One cup of blackberry contains 2 gram of protein, 62 calorie and 7.6 gram of dietary fiber.
+Potassium - 233 mg Phosphorus - 32 mg Magnesium - 29 mg Calcium - 42 mg Sodium - 1 mg Iron - 0.89 mg Selenium 0.6 mcg Manganese - 0.93 mg Copper - 0.238 mg Zinc - 0.76 mg Also contains small amount of other minerals.
+Vitamin A - 308 IU Vitamin B1 (thiamine) - 0.029 mg Vitamin B2 (riboflavin) - 0.037 mg Niacin - 0.93 mg Folate - 36 mcg Pantothenic Acid - 0.397 mg Vitamin B6 - 0.043 mg Vitamin C - 30.2 mg Vitamin E - 1.68 mg Vitamin K - 28.5 mcg Contains some other vitamin in small amounts.
+One cup of blackcurrants contains 1.57 gram of protein and 71 calories.
+Potassium - 361 mg Phosphorus - 66 mg Magnesium - 27 mg Calcium - 62 mg Sodium - 2 mg Iron - 1.72 mg Manganese - 0.287 mg Copper - 0.096 mg Zinc - 0.3 mg Also contains small amount of other minerals.
+Vitamin A - 258 IU Vitamin B1 (thiamine) - 0.056 mg Vitamin B2 (riboflavin) - 0.056 mg Niacin - 0.336 mg Pantothenic Acid - 0.446 mg Vitamin B6 - 0.074 mg Vitamin C - 202.7 mg Vitamin E - 1.12 mg Contains some other vitamin in small amounts.
+One cup of blueberry contains 1.1 gram of protein, 84 calorie and 3.6 gram of dietary fiber.
+Potassium - 114 mg Phosphorus - 18 mg Magnesium - 9 mg Calcium - 9 mg Sodium - 1 mg Iron - 0.41 mg Selenium 0.1 mcg Manganese - 0.497 mg Zinc - 0.24 mg Also contains small amount of other minerals.
+Vitamin A - 217 IU Vitamin B1 (thiamine) - 0.055 mg Vitamin B2 (riboflavin) - 0.061 mg Niacin - 0.08 mg Folate - 9 mcg Pantothenic Acid - 0.184 mg Vitamin B6 - 0.077 mg Vitamin C - 14.4 mg Vitamin E - 2.29 mg Vitamin K - 28.6 mcg Contains some other vitamin in small amounts.
+One cup of frozen boysenberry contains 1.45 gram of protein, 66 calorie and 7 gram of dietary fiber.
+Potassium - 183 mg Phosphorus - 36 mg Magnesium - 21 mg Calcium - 36 mg Sodium - 1 mg Iron - 1.12 mg Selenium 0.3 mcg Manganese - 0.722 mg Copper - 0.106 mg Zinc - 0.29 mg Also contains small amount of other minerals.
+Vitamin A - 88 IU Vitamin B1 (thiamine) - 0.07 mg Vitamin B2 (riboflavin) - 0.049 mg Niacin - 1.012 mg Folate - 83 mcg Pantothenic Acid - 0.33 mg Vitamin B6 - 0.074 mg Vitamin C - 4.1 mg Vitamin E - 1.15 mg Vitamin K - 10.3 mcg Contains some other vitamin in small amounts.
+One cup of fresh breadfruit contains 2.35 gram of protein, 227 calorie and 10.8 gram of dietary fiber.
+Potassium - 1078 mg Phosphorus - 66 mg Magnesium - 55 mg Calcium - 37 mg Sodium - 4 mg Iron - 1.19 mg Selenium 1.3 mcg Manganese - 0.132 mg Copper - 0.185 mg Zinc - 0.26 mg Also contains small amount of other minerals.
+Vitamin B1 (thiamine) - 0.242 mg Vitamin B2 (riboflavin) - 0.066 mg Niacin - 1.98 mg Folate - 31 mcg Pantothenic Acid - 1.05 mg Vitamin B6 - 0.22 mg Vitamin C - 63.8 mg Vitamin E - 0.22 mg Vitamin K - 1.1 mcg Contains some other vitamin in small amounts.
+One medium wedge (slice) of cantaloupe contains 0.58 gram of protein, 23 calorie and 0.6 gram of dietary fiber.
+Potassium - 184 mg Phosphorus - 10 mg Magnesium - 8 mg Calcium - 6 mg Sodium - 11 mg Iron - 0.14 mg Selenium 0.3 mcg Manganese - 0.028 mg Copper - 0.028 mg Zinc - 0.12 mg Also contains small amount of other minerals.
+Vitamin A - 2334 IU Vitamin B1 (thiamine) - 0.028 mg Vitamin B2 (riboflavin) - 0.013 mg Niacin - 0.506 mg Folate - 14 mcg Pantothenic Acid - 0.072 mg Vitamin B6 - 0.05 mg Vitamin C - 25.3 mg Vitamin E - 0.03 mg Vitamin K - 1.7 mcg Contains some other vitamin in small amounts.
+One cup of diced, fresh cherimoya contains 2.51 gram of protein, 120 calorie and 4.8 gram of dietary fiber.
+Potassium - 459 mg Phosphorus - 42 mg Magnesium - 27 mg Calcium - 16 mg Sodium - 11 mg Iron - 0.43 mg Manganese - 0.149 mg Copper - 0.11 mg Zinc - 0.26 mg Also contains small amount of other minerals.
+Vitamin B1 (thiamine) - 0.162 mg Vitamin B2 (riboflavin) - 0.21 mg Niacin - 1.03 mg Folate - 37 mcg Pantothenic Acid - 0.552 mg Vitamin B6 - 0.411 mg Vitamin C - 20.2 mg Vitamin A - 8 IU Vitamin E - 0.43 mg Contains some other vitamin in small amounts.
+One cup of fresh cherries, with pits, contains 1.46 gram of protein, 87 calorie and 2.9 gram of dietary fiber.
+Iron - 0.5 mg Zinc - 0.1 mg Manganese - 0.097 mg Copper - 0.083 mg Also contains small amount of other minerals.
+Vitamin A - 88 IU Vitamin B1 (thiamine) - 0.037 mg Vitamin B2 (riboflavin) - 0.046 mg Niacin - 0.213 mg Folate - 6 mcg Pantothenic Acid - 0.275 mg Vitamin B6 - 0.068 mg Vitamin C - 9.7 mg Vitamin E - 0.1 mg Vitamin K - 2.9 mcg Contains some other vitamin in small amounts.
+One Chinese (Asian) pear, about 3 inch in diameter, contains 1.38 gram of protein, 116 calorie and 9.9 gram of dietary fiber.
+Potassium - 333 mg Phosphorus - 30 mg Magnesium - 22 mg Calcium - 11 mg Selenium 0.3 mcg Manganese - 0.165 mg Copper - 0.138 mg Zinc - 0.06 mg Also contains small amount of other minerals.
+Vitamin B1 (thiamine) - 0.025 mg Vitamin B2 (riboflavin) - 0.028 mg Niacin - 0.602 mg Folate - 22 mcg Pantothenic Acid - 0.193 mg Vitamin B6 - 0.06 mg Vitamin C - 10.4 mg Vitamin E - 0.33 mg Vitamin K - 12.4 mcg Contains some other vitamin in small amounts.
+One cup of cranberry contains 0.39 gram of protein, 46 calorie and 4.6 gram of dietary fiber.
+Potassium - 85 mg Phosphorus - 13 mg Magnesium - 6 mg Calcium - 8 mg Sodium - 2 mg Iron - 0.25 mg Selenium 0.1 mcg Manganese - 0.36 mg Copper - 0.061 mg Zinc - 0.1 mg Also contains small amount of other minerals.
+Vitamin A - 60 IU Vitamin B1 (thiamine) - 0.012 mg Vitamin B2 (riboflavin) - 0.02 mg Niacin - 0.101 mg Folate - 1 mcg Pantothenic Acid - 0.295 mg Vitamin B6 - 0.057 mg Vitamin C - 13.3 mg Vitamin E - 1.2 mg Vitamin K - 5.1 mcg Contains some other vitamin in small amounts.
+One cup of pitted, chopped date contains 3.6 gram of protein, 415 calorie and 11.8 gram of dietary fiber.
+Potassium - 964 mg Phosphorus - 91 mg Magnesium - 63 mg Calcium - 57 mg Sodium - 3 mg Iron - 1.5 mg Selenium 4.4 mcg Manganese - 0.385 mg Copper - 0.303 mg Zinc - 0.43 mg Also contains small amount of other minerals.
+Vitamin A - 15 IU Vitamin B1 (thiamine) - 0.076 mg Vitamin B2 (riboflavin) - 0.097 mg Niacin - 1.873 mg Folate - 28 mcg Pantothenic Acid - 0.866 mg Vitamin B6 - 0.243 mg Vitamin C - 0.6 mg Vitamin E - 0.07 mg Vitamin K - 4 mcg Contains some other vitamin in small amounts.
+One large, fresh fig contains 0.48 gram of protein, 47 calorie and 1.9 gram of dietary fiber.
+Potassium - 148 mg Phosphorus - 9 mg Magnesium - 11 mg Calcium - 22 mg Sodium - 1 mg Iron - 0.24 mg Selenium 0.1 mcg Manganese - 0.082 mg Copper - 0.045 mg Zinc - 0.1 mg Also contains small amount of other minerals.
+Vitamin A - 91 IU Vitamin B1 (thiamine) - 0.038 mg Vitamin B2 (riboflavin) - 0.032 mg Niacin - 0.256 mg Folate - 4 mcg Pantothenic Acid - 0.192 mg Vitamin B6 - 0.072 mg Vitamin C - 1.3 mg Vitamin E - 0.07 mg Vitamin K - 3 mcg Contains some other vitamin in small amounts.
+One cup of gooseberry contains 1.32 gram of protein, 66 calorie and over 6.5 gram of dietary fiber.
+Potassium - 297 mg Phosphorus - 40 mg Magnesium - 15 mg Calcium - 38 mg Sodium - 2 mg Iron - 0.47 mg Selenium 0.9 mcg Manganese - 0.216 mg Copper - 0.105 mg Zinc - 0.18 mg Also contains small amount of other minerals.
+Vitamin A - 435 IU Vitamin B1 (thiamine) - 0.06 mg Vitamin B2 (riboflavin) - 0.045 mg Niacin - 0.45 mg Folate - 9 mcg Pantothenic Acid - 0.429 mg Vitamin B6 - 0.12 mg Vitamin C - 41.5 mg Vitamin E - 0.56 mg Contains some other vitamin in small amounts.
+One cup of grapefruit section contains 1.45 gram of protein, 74 calorie and 2.5 gram of dietary fiber.
+Potassium - 320 mg Phosphorus - 18 mg Magnesium - 18 mg Calcium - 28 mg Iron - 0.21 mg Selenium 0.7 mcg Manganese - 0.028 mg Copper - 0.108 mg Zinc - 0.16 mg Also contains small amount of other minerals.
+Vitamin A - 2132 IU Vitamin B1 (thiamine) - 0.083 mg Vitamin B2 (riboflavin) - 0.046 mg Niacin - 0.575 mg Folate - 23 mcg Pantothenic Acid - 0.651 mg Vitamin B6 - 0.097 mg Vitamin C - 79.1 mg Vitamin E - 0.3 mg Contains some other vitamin in small amounts.
+One cup of grape contains 1.09 gram of protein, 104 calorie and 1.4 gram of dietary fiber.
+Potassium - 288 mg Phosphorus - 30 mg Magnesium - 11 mg Calcium - 15 mg Sodium - 3 mg Iron - 0.54 mg Selenium 0.2 mcg Manganese - 0.107 mg Copper - 0.192 mg Zinc - 0.11 mg Also contains small amount of other minerals.
+Vitamin A - 100 IU Vitamin B1 (thiamine) - 0.104 mg Vitamin B2 (riboflavin) - 0.106 mg Niacin - 0.284 mg Folate - 3 mcg Pantothenic Acid - 0.076 mg Vitamin B6 - 0.13 mg Vitamin C - 16.3 mg Vitamin E - 0.29 mg Vitamin K - 22 mcg Contains some other vitamin in small amounts.
+One cup of fresh guava contains 4.21 gram of protein, 112 calorie and 8.9 gram of dietary fiber.
+Potassium - 688 mg Phosphorus - 66 mg Magnesium - 36 mg Calcium - 30 mg Sodium - 3 mg Iron - 0.43 mg Selenium 1 mcg Manganese - 0.247 mg Copper - 0.38 mg Zinc - 0.38 mg Also contains small amount of other minerals.
+Vitamin A - 1030 IU Vitamin B1 (thiamine) - 0.111 mg Vitamin B2 (riboflavin) - 0.066 mg Niacin - 1.789 mg Folate - 81 mcg Pantothenic Acid - 0.744 mg Vitamin B6 - 0.181 mg Vitamin C - 376.7 mg Vitamin E - 1.2 mg Vitamin K - 4.3 mcg Contains some other vitamin in small amounts.
+One medium kiwi (69 grams) contains 0.79 gram protein, 42 calorie and 2.1 gram of dietary fiber.
+Potassium - 215 mg Phosphorus - 23 mg Magnesium - 12 mg Calcium - 23 mg Sodium - 2 mg Iron - 0.21 mg Selenium 0.1 mcg Manganese - 0.068 mg Copper - 0.09 mg Zinc - 0.1 mg Also contains small amount of other minerals.
+Vitamin A - 60 IU Vitamin B1 (thiamine) - 0.019 mg Vitamin B2 (riboflavin) - 0.017 mg Niacin - 0.235 mg Folate - 17 mcg Pantothenic Acid - 0.126 mg Vitamin B6 - 0.043 mg Vitamin C - 64 mg Vitamin E - 1.01 mg Vitamin K - 27.8 mcg Contains some other vitamin in small amounts.
+One lemon without peel contains 0.92 gram protein, 24 calorie and 2.4 gram of dietary fiber.
+Potassium - 116 mg Phosphorus - 13 mg Magnesium - 7 mg Calcium - 22 mg Sodium - 2 mg Iron - 0.5 mg Selenium 0.3 mcg Manganese - 0.025 mg Copper - 0.031 mg Zinc - 0.05 mg Also contains small amount of other minerals.
+Vitamin A - 18 IU Vitamin B1 (thiamine) - 0.034 mg Vitamin B2 (riboflavin) - 0.017 mg Niacin - 0.084 mg Folate - 9 mcg Pantothenic Acid - 0.16 mg Vitamin B6 - 0.067 mg Vitamin C - 44.5 mg Vitamin E - 0.13 mg Contains some other vitamin in small amounts.
+One lime contains 0.47 gram of protein, 20 calorie and 1.9 gram of dietary fiber.
+Potassium - 68 mg Phosphorus - 12 mg Magnesium - 4 mg Calcium - 22 mg Sodium - 1 mg Iron - 0.4 mg Selenium 0.3 mcg Manganese - 0.005 mg Copper - 0.044 mg Zinc - 0.07 mg Also contains small amount of other minerals.
+Vitamin A - 34 IU Vitamin B1 (thiamine) - 0.02 mg Vitamin B2 (riboflavin) - 0.013 mg Niacin - 0.134 mg Folate - 5 mcg Pantothenic Acid - 0.145 mg Vitamin B6 - 0.029 mg Vitamin C - 19.5 mg Vitamin E - 0.15 mg Vitamin K - 0.4 mcg Contains some other vitamin in small amounts.
+One cup of frozen loganberry contains 2.23 gram of protein, 81 calorie and 7.8 gram of dietary fiber.
+Potassium - 213 mg Phosphorus - 38 mg Magnesium - 31 mg Calcium - 38 mg Sodium - 1 mg Iron - 0.94 mg Selenium 0.3 mcg Manganese - 1.833 mg Copper - 0.172 mg Zinc - 0.5 mg Also contains small amount of other minerals.
+Vitamin A - 51 IU Vitamin B1 (thiamine) - 0.074 mg Vitamin B2 (riboflavin) - 0.05 mg Niacin - 1.235 mg Folate - 38 mcg Pantothenic Acid - 0.359 mg Vitamin B6 - 0.096 mg Vitamin C - 22.5 mg Vitamin E - 1.28 mg Vitamin K - 11.5 mcg Contains some other vitamin in small amounts.
+One cup of fresh lychee contains 1.58 gram of protein, 125 calorie and 2.5 gram of dietary fiber.
+Potassium - 325 mg Phosphorus - 59 mg Magnesium - 19 mg Calcium - 10 mg Sodium - 2 mg Iron - 0.59 mg Selenium 1.1 mcg Manganese - 0.104 mg Copper - 0.281 mg Zinc - 0.13 mg Also contains small amount of other minerals.
+Vitamin B1 (thiamine) - 0.021 mg Vitamin B2 (riboflavin) - 0.123 mg Niacin - 1.146 mg Folate - 27 mcg Vitamin B6 - 0.19 mg Vitamin C - 135.8 mg Vitamin E - 0.13 mg Vitamin K - 0.08 mcg Contains some other vitamin in small amounts.
+One mango without peel contains 1.06 gram of protein, 135 calorie and 3.7 gram of dietary fiber.
+Potassium - 323 mg Phosphorus - 23 mg Magnesium - 19 mg Calcium - 21 mg Sodium - 4 mg Iron - 0.27 mg Selenium 1.2 mcg Manganese - 0.056 mg Copper - 0.228 mg Zinc - 0.08 mg Also contains small amount of other minerals.
+Vitamin A - 1584 IU Vitamin B1 (thiamine) - 0.12 mg Vitamin B2 (riboflavin) - 0.118 mg Niacin - 1.209 mg Folate - 29 mcg Pantothenic Acid - 0.331 mg Vitamin B6 - 0.227 mg Vitamin C - 57.3 mg Vitamin E - 2.32 mg Vitamin K - 8.7 mcg Contains some other vitamin in small amounts.
+One cup of fresh mulberry contains 2.02 gram of protein and 2.4 gram of dietary fiber.
+Potassium - 272 mg Phosphorus - 53 mg Magnesium - 25 mg Calcium - 55 mg Sodium - 14 mg Iron - 2.59 mg Selenium 0.8 mcg Copper - 0.084 mg Zinc - 0.17 mg Also contains small amount of other minerals.
+Vitamin A - 35 IU Vitamin B1 (thiamine) - 0.041 mg Vitamin B2 (riboflavin) - 0.141 mg Niacin - 0.868 mg Folate - 8 mcg Vitamin B6 - 0.07 mg Vitamin C - 51 mg Vitamin E - 1.22 mg Vitamin K - 10.9 mcg Contains some other vitamin in small amounts.
+One cup of sliced fresh nectarine contains 1.52 gram of protein, 63 calorie and 2.4 gram of dietary fiber.
+Potassium - 287 mg Phosphorus - 37 mg Magnesium - 13 mg Calcium - 9 mg Iron - 0.4 mg Manganese - 0.077 mg Copper - 0.123 mg Zinc - 0.24 mg Also contains small amount of other minerals.
+Vitamin A - 475 IU Vitamin B1 (thiamine) - 0.049 mg Vitamin B2 (riboflavin) - 0.039 mg Niacin - 1.609 mg Folate - 7 mcg Pantothenic Acid - 0.265 mg Vitamin B6 - 0.036 mg Vitamin C - 7.7 mg Vitamin E - 1.1 mg Vitamin K - 3.1 mcg Contains some other vitamin in small amounts.
+One tablespoon of ripe olive contains 0.07 gram of protein, 10 calorie and 0.3 gram of dietary fiber.
+Potassium - 1 mg Calcium - 7 mg Sodium - 73 mg Iron - 0.28 mg Selenium 0.1 mcg Manganese - 0.002 mg Copper - 0.021 mg Zinc - 0.02 mg Also contains small amount of other minerals.
+Vitamin A - 34 IU Niacin - 0.003 mg Pantothenic Acid - 0.001 mg Vitamin B6 - 0.001 mg Vitamin C - 0.1 mg Vitamin E - 0.14 mg Vitamin K - 0.1 mcg Contains some other vitamin in small amounts.
+One medium orange contains 1.23 gram of protein, 62 calorie and 3.1 gram of dietary fiber.
+Potassium - 237 mg Phosphorus - 18 mg Magnesium - 13 mg Calcium - 52 mg Iron - 0.13 mg Selenium 0.7 mcg Manganese - 0.033 mg Copper - 0.059 mg Zinc - 0.09 mg Also contains small amount of other minerals.
+Vitamin A - 295 IU Vitamin B1 (thiamine) - 0.114 mg Vitamin B2 (riboflavin) - 0.052 mg Niacin - 0.369 mg Folate - 39 mcg Pantothenic Acid - 0.328 mg Vitamin B6 - 0.079 mg Vitamin C - 69.7 mg Vitamin E - 0.24 mg Contains some other vitamin in small amounts.
+One cup of cubed fresh papaya contains 0.85 gram of protein, 55 calorie and 2.5 gram of dietary fiber.
+Potassium - 360 mg Phosphorus - 7 mg Magnesium - 14 mg Calcium - 34 mg Sodium - 4 mg Iron - 0.14 mg Selenium 0.8 mcg Zinc - 0.1 mg Manganese - 0.015 mg Copper - 0.022 mg Also contains small amount of other minerals.
+Vitamin A - 1532 IU Vitamin B1 (thiamine) - 0.038 mg Vitamin B2 (riboflavin) - 0.045 mg Niacin - 0.473 mg Folate - 53 mcg Pantothenic Acid - 0.305 mg Vitamin B6 - 0.027 mg Vitamin C - 86.5 mg Vitamin E - 1.02 mg Vitamin K - 3.6 mcg Contains some other vitamin in small amounts.
+One cup of fresh passion fruit contains 5.19 gram of protein, 229 calorie and 24.5 gram of dietary fiber.
+Potassium - 821 mg Phosphorus - 160 mg Magnesium - 68 mg Calcium - 28 mg Sodium - 66 mg Iron - 3.78 mg Selenium 1.4 mcg Copper - 0.203 mg Zinc - 0.24 mg Also contains small amount of other minerals.
+Vitamin A - 3002 IU Vitamin B2 (riboflavin) - 0.307 mg Niacin - 3.54 mg Folate - 33 mcg Vitamin B6 - 0.236 mg Vitamin C - 70.8 mg Vitamin E - 0.05 mg Vitamin K - 1.7 mcg Contains some other vitamin in small amounts.
+One medium peach (with skin) contains 1.36 gram of protein, 58 calorie and 2.2 gram dietary fiber.
+Potassium - 285 mg Phosphorus - 30 mg Magnesium - 14 mg Calcium - 9 mg Iron - 0.38 mg Selenium 0.1 mcg Manganese - 0.091 mg Copper - 0.102 mg Zinc - 0.26 mg Also contains small amount of other minerals.
+Vitamin A - 489 IU Vitamin B1 (thiamine) - 0.036 mg Vitamin B2 (riboflavin) - 0.047 mg Niacin - 1.209 mg Folate - 6 mcg Pantothenic Acid - 0.229 mg Vitamin B6 - 0.037 mg Vitamin C - 9.9 mg Vitamin E - 1.09 mg Vitamin K - 3.9 mcg Contains some other vitamin in small amounts.
+One medium pear contains 0.68 gram of protein, 103 calorie and 5.5 gram dietary fiber.
+Potassium - 212 mg Phosphorus - 20 mg Magnesium - 12 mg Calcium -16 mg Sodium - 2 mg Iron - 0.3 mg Selenium 0.2 mcg Manganese - 0.087 mg Copper - 0.146 mg Zinc - 0.18 mg Also contains small amount of other minerals.
+Vitamin A - 41 IU Vitamin B1 (thiamine) - 0.021 mg Vitamin B2 (riboflavin) - 0.045 mg Niacin - 0.279 mg Folate - 12 mcg Pantothenic Acid - 0.085 mg Vitamin B6 - 0.05 mg Vitamin C - 7.5 mg Vitamin E - 0.21 mg Vitamin K - 8 mcg Contains some other vitamin in small amounts.
+One fresh persimmon contains 0.2 gram of protein and 32 calories.
+Potassium - 78 mg Phosphorus - 6 mg Calcium - 7 mg Iron - 0.62 mg Also contains small amount of other minerals.
+Vitamin C - 16.5 mg Contains some other vitamin in small amounts.
+One cup of fresh pineapple chunk contains 0.89 gram of protein, 82 calorie and 2.3 gram of dietary fiber.
+Potassium - 180 mg Phosphorus - 13 mg Magnesium - 20 mg Calcium -21 mg Sodium - 2 mg Iron - 0.48 mg Selenium 0.2 mcg Manganese - 1.53 mg Copper - 0.181 mg Zinc - 0.2 mg Also contains small amount of other minerals.
+Vitamin A - 96 IU Vitamin B1 (thiamine) - 0.13 mg Vitamin B2 (riboflavin) - 0.053 mg Niacin - 0.825 mg Folate - 30 mcg Pantothenic Acid - 0.351 mg Vitamin B6 - 0.185 mg Vitamin C - 78.9 mg Vitamin E - 0.03 mg Vitamin K - 1.2 mcg Contains some other vitamin in small amounts.
+One cup of sliced, fresh plum contains 1.15 gram of protein, 76 calorie and 2.3 gram dietary fiber.
+Potassium - 259 mg Phosphorus - 26 mg Magnesium - 12 mg Calcium - 10 mg Iron - 0.28 mg Manganese - 0.086 mg Copper - 0.094 mg Zinc - 0.17 mg Also contains small amount of other minerals.
+Vitamin A - 569 IU Vitamin B1 (thiamine) - 0.046 mg Vitamin B2 (riboflavin) - 0.043 mg Niacin - 0.688 mg Folate - 8 mcg Pantothenic Acid - 0.223 mg Vitamin B6 - 0.048 mg Vitamin C - 15.7 mg Vitamin E - 0.43 mg Vitamin K - 10.6 mcg Contains some other vitamin in small amounts.
+One fresh pomegranate contains 4.71 gram of protein, 234 calorie and 11.3 gram dietary fiber.
+Potassium - 666 mg Phosphorus - 102 mg Magnesium - 34 mg Calcium - 28 mg Sodium - 8 mg Iron - 0.85 mg Selenium 1.4 mcg Manganese - 0.336 mg Copper - 0.446 mg Zinc - 0.99 mg Also contains small amount of other minerals.
+Vitamin B1 (thiamine) - 0.189 mg Vitamin B2 (riboflavin) - 0.149 mg Niacin - 0.826 mg Folate - 107 mcg Pantothenic Acid - 1.063 mg Vitamin B6 - 0.211 mg Vitamin C - 28.8 mg Vitamin E - 1.69 mg Vitamin K - 46.2 mcg Contains some other vitamin in small amounts.
+One cup of raw prickly pear contains 1.09 gram of protein, 61 calorie and 5.4 gram dietary fiber.
+Potassium - 328 mg Phosphorus - 36 mg Magnesium - 127 mg Calcium - 83 mg Sodium - 7 mg Iron - 0.45 mg Selenium 0.9 mcg Copper - 0.119 mg Zinc - 0.18 mg Also contains small amount of other minerals.
+Vitamin A - 64 IU Vitamin B1 (thiamine) - 0.021 mg Vitamin B2 (riboflavin) - 0.089 mg Niacin - 0.685 mg Vitamin B6 - 0.089 mg Folate - 9 mcg Vitamin C - 20.9 mg Contains some other vitamin in small amounts.
+One small box of raisin (1.5 ozs) contains 1.32 gram of protein, 129 calorie and 1.6 gram dietary fiber.
+Potassium - 322 mg Phosphorus - 43 mg Magnesium - 14 mg Calcium - 22 mg Sodium - 5 mg Iron - 0.81 mg Selenium 0.3 mcg Manganese - 0.129 mg Copper - 0.137 mg Zinc - 0.09 mg Also contains small amount of other minerals.
+Vitamin B1 (thiamine) - 0.046 mg Vitamin B2 (riboflavin) - 0.054 mg Niacin - 0.329 mg Folate - 2 mcg Pantothenic Acid - 0.041 mg Vitamin B6 - 0.075 mg Vitamin C - 1 mg Vitamin E - 0.05 mg Vitamin K - 1.5 mcg Contains some other vitamin in small amounts.
+One cup of fresh raspberry contains 1.48 gram of protein, 64 calorie and 8 gram dietary fiber.
+Potassium - 186 mg Phosphorus - 36 mg Magnesium - 27 mg Calcium - 31 mg Sodium - 1 mg Iron - 0.85 mg Selenium 0.2 mcg Manganese - 0.824 mg Copper - 0.111 mg Zinc - 0.52 mg Also contains small amount of other minerals.
+Vitamin A - 41 IU Vitamin B1 (thiamine) - 0.039 mg Vitamin B2 (riboflavin) - 0.047 mg Niacin - 0.736 mg Folate - 26 mcg Pantothenic Acid - 0.405 mg Vitamin B6 - 0.068 mg Vitamin C - 32.2 mg Vitamin E - 1.07 mg Vitamin K - 9.6 mcg Contains some other vitamin in small amounts.
+One cup of fresh starfruit contains 1.37 gram of protein, 41 calorie and 3.7 gram dietary fiber.
+Potassium - 176 mg Phosphorus - 16 mg Magnesium - 13 mg Calcium - 4 mg Sodium - 3 mg Iron - 0.11 mg Selenium 0.8 mcg Manganese - 0.049 mg Copper - 0.181 mg Zinc - 0.16 mg Also contains small amount of other minerals.
+Vitamin A - 81 IU Vitamin B1 (thiamine) - 0.018 mg Vitamin B2 (riboflavin) - 0.021 mg Niacin - 0.484 mg Folate - 16 mcg Pantothenic Acid - 0.516 mg Vitamin B6 - 0.022 mg Vitamin C - 45.4 mg Vitamin E - 0.2 mg Contains some other vitamin in small amounts.
+One cup of whole strawberry contains 0.96 gram of protein, 46 calorie and 2.9 gram of dietary fiber.
+Potassium - 220 mg Phosphorus - 35 mg Magnesium - 19 mg Calcium - 23 mg Sodium - 1 mg Iron - 0.59 mg Selenium 0.6 mcg Manganese - 0.556 mg Copper - 0.069 mg Zinc - 0.2 mg Also contains small amount of other minerals.
+Vitamin A - 17 IU Vitamin B1 (thiamine) - 0.035 mg Vitamin B2 (riboflavin) - 0.032 mg Niacin - 0.556 mg Folate - 35 mcg Pantothenic Acid - 0.18 mg Vitamin B6 - 0.068 mg Vitamin C - 84.7 mg Vitamin E - 0.42 mg Vitamin K - 3.2 mcg Contains some other vitamin in small amounts.
+One medium tomato contains 1.08 gram of protein, 22 calorie and 1.5 gram of fiber.
+Potassium - 292 mg Phosphorus - 30 mg Magnesium - 14 mg Calcium - 12 mg Sodium - 6 mg Iron - 0.33 mg Manganese - 0.14 mg Copper - 0.073 mg Zinc - 0.21 mg Also contains small amount of other minerals.
+Vitamin A - 1025 IU Vitamin B1 (thiamine) - 0.046 mg Vitamin B2 (riboflavin) - 0.023 mg Niacin - 0.731 mg Folate - 18 mcg Pantothenic Acid - 0.109 mg Vitamin B6 - 0.098 mg Vitamin C - 15.6 mg Vitamin E - 0.66 mg Vitamin K - 9.7 mcg Contains some other vitamin in small amounts.
+I medium wedge (slice) of watermelon (about 2 cup edible portion) contains 1.74 gram of protein, 86 calorie and 1.1 gram of dietary fiber.
+Potassium - 320 mg Phosphorus - 31 mg Magnesium - 29 mg Calcium - 20 mg Sodium - 3 mg Iron - 0.69 mg Selenium 1.1 mcg Manganese - 0.109 mg Copper - 0.12 mg Zinc - 0.29 mg Also contains small amount of other minerals.
+Vitamin A - 1627 IU Vitamin B1 (thiamine) - 0.094 mg Vitamin B2 (riboflavin) - 0.06 mg Niacin - 0.509 mg Folate - 9 mcg Pantothenic Acid - 0.632 mg Vitamin B6 - 0.129 mg Vitamin C - 23.2 mg Vitamin E - 0.14 mg Vitamin K - 0.3 mcg Contains some other vitamin in small amounts.

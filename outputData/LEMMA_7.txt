@@ -1,0 +1,37 @@
+XIAOTITLE Apple show new MacBook, most beautiful computer we ve ever made | Fox News.
+With that geeky joke (the answer?
+None, that s a hardware problem ), Apple s Siri voice-control system opened the company s annual Worldwide Developer Conference (WWDC) in San Francisco.
+But the real star of the show wa a razor-thin new MacBook Air that Apple called it most beautiful computer ever.
+Apple CEO Tim Cook took the stage after the warm-up joke ended, to begin with a bit of hype about the popularity of software on Apple s gadgets.
+The App Store ha some 650,000 apps and over 30 billion downloads to date, he said.
+He quickly segued into the real highlight of the show: the updated Mac computers.
+New software isn t surprising: Apple ha used it WWDC to announce new iPhone software for the past few years.More interesting is the next-generation MacBook Pro, unveiled by Phil Schiller, senior vice president of worldwide marketing.
+How close are we to Prometheus technology?
+the most beautiful computer we ve ever made, Schiller said.
+The MacBook Pro ha a 15.4-inch high-definition Retina display, weighs 4.5 pounds, and come with a new Intel chip.
+Prices will start at $2,199.
+“There ha never been a notebook this thin, this light, and this powerful.
+It s an engineering breakthrough,” Schiller said.
+The Pro measure just 0.71 inch thick, the company said, putting it on a par with the Air.
+But speaking of the Macbook Air, Apple also showed a revamped version of the superthin laptop that wa largely responsible for the ultrabook invasion currently sweeping out all the old, fat laptop and ushering in an era of envelope-slim notebooks.
+The new Air come with up to a 2.0-GHz dual-core i7 chip -- an ultrafast Ivy Bridge processor newly unveiled from CPU giant Intel -- a well a up to 8GB of 1,600-MHz memory.
+It also includes fast new USB 3.0 ports.
+The Air is on sale today, and sell for $999 to $1,499.
+Pirated Game of Thrones more popular than TV show?
+On the Mac software side, Apple already demonstrated most of the feature of OS X 10.8 Mountain Lion in February and said it will go on sale late this summer, but developer can already download it.
+It narrow the gap between the PC and phone software packages, making Mac personal computer work more like iPhones.
+Apple on Monday announced three new apps for Mountain Lion -- Messages, Reminders, and Notes -- a well a tighter integration with the iCloud online storage system and integrated voice control, though not through Siri.
+Microsoft Corp., Apple s chief competitor in PC software, is on a parallel course.
+It s set to release Windows 8 later this year, bringing the look and user interface of Windows Phone to PCs.
+Moutain Lion will sell for $19.99, the company said.
+Finally, Scott Forstall took to the stage to discus iOS 6, the next iteration of the software that power the iPhone, iPod and iPad.
+The software will see over 200 enhancements, he declared, including significant update to Siri.
+Notably, the company announced deep integration with Facebook and that it is working with such car maker a GM, BMW, Mercedes and more to build a Siri access button directly into the steering wheel.
+“We’re working with car manufacturer to include a button that will bring up Siri,” Forstall said -- a clever idea that show Apple still know how to innovate.
+Finally, Apple announced a home-grown mapping feature, to replace the Google Maps service it ha used since the iPhone wa first released.
+It includes a 3D mapping feature, created from fly-overs of major metropolitan areas, and new mapping feature including traffic, support for 100 million businesses, and turn-by-turn navigation.
+Ask Siri Are we there yet? and she ll respond with the current status.
+Relax and enjoy the drive.
+iOS 6 will be available to developer in beta in a few days.
+Ordinary user will see it sometime in the Fall.
+The product we make, combined with the apps you make can fundamentally change the world, Cook told the assembled crowd of developers.

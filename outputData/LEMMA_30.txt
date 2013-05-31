@@ -1,0 +1,68 @@
+XIAOTITLE Unfixable Computers Are Leading Humanity Down a Perilous Path | Gadget Lab | Wired.com.
+Circuit board on display at an electronics repair shop in Nairobi, Kenya.
+Photo: Kyle Wiens I’ve been writing about Apple and the value of repair for the better part of the last decade.
+Repair is our mission at iFixit — and it always ha been.
+Even so, I didn’t expect the scale of the public response when I argued last week that consumer should choose the hackable, fixable non-Retina MacBook Pro over it sleeker-and-shinier-but-locked-down sibling.
+The debate ha been contentious.
+Garrett Murray argues that repairability is ludditism, old-fashioned inertia dragging down forward progress.
+He belief that more compact device will necessarily be le upgradeable and hackable.
+Others said repair doesn’t matter; consumer don’t care.
+On some level, they’re right.
+If something breaks, most computer owner won’t grab a screwdriver — they’ll take it to a specialist.
+And if the computer outlives it usefulness, they won’t upgrade their machine, they’ll just buy a faster one.
+Some folk correctly pointed out that Apple product are more durable than other computers.
+Plus, Apple ha a reputable extended warranty program.
+The future of this planet depends on the quality of our electronic device — and how long they last But sending your difficult-to-repair computer off to a Genius doesn’t exempt you from repair troubles.
+About a third of computer break by the fourth year.
+AppleCare doesn’t cover accident and only last up to three years.
+Less repairable design guarantee that fixing stuff will be more expensive and complicated.
+Repairability is important for consumer . Yet I think this argument miss the bigger point.
+The future of this planet depends on the quality of our electronic device — and how long they last.
+Technology doesn’t just make our life more convenient.
+It make life better on a global scale.
+Modern communication have driven advance in biotechnology , soil science , and medicine . For the first time, farmer are able to get instant weather advisories, pay for fertilizer by phone while standing in the field, and fight back against local monopoly with access to global commodity prices.
+Globally, we manufactured 1.6 billion cell phone last year, and we’ll make over 2 billion this year . The problem?
+The way we’re doing it hurt people and permanently damage our environment.
+I dream of a sustainable technology industry that make life-changing innovation like the iPad available to everyone on the planet.
+But I have a message for Jonathan Ive.
+I think that on top of building amazing new products, the technology industry should have three goals: I’ve spent a lot of time studying these problems.
+I’ve visited the electronics scrapyards in Ghana where child burn electronics to mine them for raw materials.
+I’ve interviewed product designer at leading electronics manufacturers, including one that integrate life cycle analysis into their design process.
+And I’ve spent a lot of time studying the aftermarket — the raw underbelly of the consumer electronics industry, where repair, reuse, and material recovery happen.
+There’s no such thing a a completely green cell phone or computer.
+Even elective ‘green’ standard like EPEAT are far from mandating environmentally neutral products.
+I’m on the EPEAT balloting committee, and chemical company have successfully lobbied for year to water down standard — much to the chagrin of everyone, including many manufacturers.
+I’ve learned that most of the environmental and social impact of the electronics industry happens outside of the purview of the device manufacturers: It happens in mine and chemical factory well upstream of Foxconn and in unregulated scrapyards around the world.
+Pit mining is savaging the environment, causing water pollution issue that lead to birth defect and are unbelievably expensive to clean up.
+Semiconductor manufacturers’ insatiable demand for a vast array of mineral is also causing geopolitical issues.
+China is heavily restricting export of rare earth metal to prop up it domestic manufacturing sector.
+In your death, may you give life to a dozen more computers.” When the warranty ends, manufacturer would prefer it if stuff disappeared so they could sell you a new product.
+But the real world isn’t nearly so tidy.
+Only a small fraction of the electronics produced are recycled.
+And even then, they’re usually shredded and separated into component materials.
+Shredding is a waste of resource and squanders the embodied energy in device . Worse, many materials, including rare earth and coltan, are not being recovered at all.
+So, why do we keep making more devices?
+We’re pretty close to manufacturing almost all of the electronics we need.
+There’s no need to make a billion more cell phone next year than we did this year.
+Increased manufacturing isn’t just due to advance in technology — we’re not very efficient at utilizing thing that we already make.
+If you don’t have at least one cell phone in your junk drawer, I bet someone in your family does.
+That phone could be helping someone else.
+In an ideal world, after you’ve moved on to your next gadget, technician will continue to repair, salvage, and refurbish the old one.
+It will move on from owner to owner.
+iFixit is part of that ecosystem — in addition to teaching repair, we buy computer from people and resell the components.
+I once received a computer with a handwritten note on it: “Goodbye, iBook.
+In your death, may you give life to a dozen more computers.” And that’s my hope for electronics everywhere.
+Fortunately, the migration of usable electronics to the developing world is natural.
+Lots of people can’t afford to buy new computers.
+Passing along old device is the best way to share the benefit of technology.
+In a few years, the computer that you gave to Goodwill could very well end up in a computer lab in Kenya . I know electronics refurbishers that have resold the exact same computer six or seven times.
+And assuming repair tech have the knowledge and skill required to maintain them, those computer will serve their owner well, costing le each time they’re passed along.
+Long-lasting, repairable hardware is the key to making computer available to people who couldn’t otherwise afford them.
+Upgradeable tech also help — even if you don’t upgrade your own computer, somebody else down the line can.
+It’s amazing how long people can keep technology running.
+Manufacturing electronics result in lot of nasty environmental problems, everything from toxic dumping to aldehyde vapor emission . We have decided, if only by inaction, that the cost of our hyper-productive modern lifestyle is worth these tradeoffs.
+I’m culpable myself — I live at the cutting edge along with all of you.
+But if we’re going to make that tradeoff, the least we could do is to pas on the technology we’re enjoying now.
+That’s why I am so eager to promote hardware that last and call out product that don’t. It’s critically important that we fix thing when they break.
+Consumers need to demand product that aren’t just light and thin, but can also stand the test of time.
+Because technology is far more than just another new gadget — it’s our future.

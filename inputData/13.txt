@@ -1,0 +1,37 @@
+XIAOTITLE Apple Overhauls Mac Computers and Introduces New Mobile Operating System - NYTimes.com.
+SAN FRANCISCO — Apple on Monday introduced a new version of its mobile operating system for iPhones and iPads that will bring a host of new features, including maps that let users soar over a three-dimensional rendering of a city.
+The new map software replaces Google data with Apple’s own mapping system, a sign that Apple is further distancing itself from the company that it once considered a close partner.
+Apple also overhauled its line of Mac computers.
+“We are so proud of these products, as they’re perfect examples of what Apple does best,” said Timothy D. Cook, Apple’s chief executive, introducing the products on the opening day of the company’s developer conference here — a yearly event where Apple shows off its works-in-progress to entice software developers to continue creating software for its devices.
+This was the first developer conference that Apple has held since the death of its co-founder and former chief executive, Steven P. Jobs, last October.
+Apple updated its ultralight MacBook Air laptop with a faster microprocessor and an improved camera.
+But it made the boldest changes in its computer line to its high-end laptop computer, the MacBook Pro , which is now one-quarter thinner than the older model and has a high-resolution “retina display” akin to the one on new iPads and iPhones.
+Apple was able to slim down the laptop, which will start at $2,200 for a model with a 15.4-inch screen, by eliminating its DVD drive and getting rid of its hard drive in favor of a faster kind of storage called flash.
+Apple’s move to drop the DVD drive echoes past moves by the company to drop technologies in its machines, like floppy-disk drives, that it viewed as outmoded, even though some consumers initially grumbled about the changes.
+The new mapping system for Apple’s mobile devices will provide drivers with turn-by-turn directions, a feature that has long been available free in smartphones running the competing Android operating system from Google.
+Apple created the 3-D view in its maps service, called Flyover, by shooting aerial photographs.
+Since the introduction of the iPhone , Apple has relied on Google’s data to drive its maps software.
+Its abandonment of Google Maps underscores the heightening tension between the two companies.
+Though they were once collaborators, their relationship gradually eroded after Google released Android.
+Now Android is the top mobile operating system in the world, and the two companies compete directly in several markets.
+To catch up with Google, Apple acquired three mapping companies over the last three years: Placebase, Poly9 and C3 Technologies.
+It is also using map data from TomTom, a Dutch manufacturer of navigation systems.
+Google has been building up its mapping service since 2005.
+Just last week it held an event to show it was adding 3-D maps to Google Earth, its service that shows satellite imagery.
+It also said it would allow Android users to download and store maps on their devices so they are viewable without an Internet connection — a feature that Apple’s mapping software still lacks.
+Apple can use the leverage of its millions of customers to help it catch up.
+The company said that its iPhone customers will be anonymously collecting traffic information for its database.
+“That should give them tens of millions of iPhones that are going to act as traffic probes in the field,” said Ross Rubin, an analyst with the NPD Group who attended Apple’s presentation.
+“They have the scale to be competitive and make that work.” Google makes use of similar data from Android phones.
+Other features in the new mobile operating system, iOS 6, include improvements to Siri, the voice-activated virtual assistant in the latest iPhone.
+While Siri initially worked with a limited set of Internet services — allowing users to, say, search for restaurants through Yelp — it will now let them use voice commands to search for sports statistics, make restaurant reservations using OpenTable and look up showtimes for movies.
+In some ways, Apple is using Siri to sidestep Google by reducing the need to consult Google’s search engine.
+Siri also has a new function, Eyes Free, that will allow car drivers to communicate with it by pushing a button on their car steering wheels.
+General Motors, BMW and Toyota are among the auto manufacturers that have agreed to put such a button in their vehicles.
+Apple also said it had reached an agreement with Facebook that more deeply weaves the social network into Apple’s devices, allowing people to share photos on Facebook, for example, without having to open a separate Facebook app.
+The new features in the operating system will become available for iPhones, iPads and the iPod Touch when iOS 6 is released this fall.
+The Mac operating system Apple first unveiled in February, OS X Mountain Lion, borrows some features from Apple’s mobile products.
+A new feature in Mountain Lion, which will be released in July as a $20 download, is Power Nap; it will allow computers to fetch software updates, e-mails and other data from the Internet while the machines are in low-power “sleep” mode.
+Apple highlighted features in Mountain Lion for Chinese customers, signaling its growing interest in China, where its iPhones have sold especially well.
+The new Mac operating system will be easier to set up with Chinese e-mail services and improve Chinese character recognition, among other advances.
+Brian X. Chen reported from San Francisco, and Nick Wingfield from New York.
