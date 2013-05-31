@@ -10,7 +10,7 @@ installed the [NLTK python package] (http://nltk.org/install.html)
 
 <b>To run:</b>
 
-`python lemmatizationWithNLTK.py <input folder path\> <output folder path\>`
+`python lemmatizationWithNLTK.py <input folder path> <output folder path>`
 
 For example:
 
