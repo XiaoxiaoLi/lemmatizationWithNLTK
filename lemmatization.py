@@ -14,7 +14,7 @@ import errno
 from nltk.stem.wordnet import WordNetLemmatizer
 lmtzr=WordNetLemmatizer()#create a lemmatizer object
 
-#check is a word is capitalized, if you want
+#check if a word is capitalized, if you want
 def iscapitalize(str):
     def containLetter():
         return len(string.letters) != len(string.letters.translate(string.maketrans('', ''), str))
