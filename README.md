@@ -7,6 +7,8 @@ Do lemmatization for each file in a folder using nltk in python.
 
 installed the [NLTK python package] (http://nltk.org/install.html)
 
+Downloaded the WordNet corpora by: `python -m    nltk.downloader all`
+
 
 <b>To run:</b>
 
